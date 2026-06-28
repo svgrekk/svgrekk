@@ -17,6 +17,7 @@ Compared 8 inference-time hallucination mitigation strategies across 3 datasets 
 ### [MedicalDiagAI](https://github.com/svgrekk/MedicalDiagAI) ★
 **Hybrid Medical Assistant** — full prototype combining LLM dialogue, symptom extraction, XGBoost diagnostics and PubMed RAG.  
 Demonstrates practical hybrid AI architecture with multi-turn interaction and state tracking.
+
 `Python` `LLMs` `RAG` `XGBoost` `LangChain` `Gradio` `PubMed`
 
 ### [CourierOptimizer](https://github.com/svgrekk/CourierOptimizer)
