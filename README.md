@@ -14,10 +14,10 @@ Compared 8 inference-time hallucination mitigation strategies across 3 datasets 
 
 `Python` `LLMs` `RAG` `vLLM` `Hugging Face`
 
-### [MedicalDiagAI](https://github.com/svgrekk/MedicalDiagAI)
-Hybrid medical assistant combining LLM dialogue, symptom extraction, ML-based diagnostic classification, and RAG-based follow-up question generation.
-
-`Python` `LLMs` `RAG` `Gradio`
+### [MedicalDiagAI](https://github.com/svgrekk/MedicalDiagAI) ★
+**Hybrid Medical Assistant** — full prototype combining LLM dialogue, symptom extraction, XGBoost diagnostics and PubMed RAG.  
+Demonstrates practical hybrid AI architecture with multi-turn interaction and state tracking.
+`Python` `LLMs` `RAG` `XGBoost` `LangChain` `Gradio` `PubMed`
 
 ### [CourierOptimizer](https://github.com/svgrekk/CourierOptimizer)
 CLI tool for courier route planning in Oslo — urgency-weighted scheduling, geospatial distance calculation, and optimization by time, cost, or CO₂ emissions across car, bike, and walk modes.
